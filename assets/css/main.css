@@ -1721,13 +1721,13 @@
 		}
 
 		.image.avatar48 {
-			width: 80px;
+			width: 100px;
 			height: 100px;
 			/*background: #f00;*/
 		}
 
 			.image.avatar48 img {
-				width: 80px;
+				width: 100px;
 				height: 100px;
 			}
 
